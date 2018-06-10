@@ -1,0 +1,13 @@
+{
+    "name": "razz/get-og",
+    "description": "Retrieve meta tags and OpenGraph",
+    "type": "library",
+    "authors": [
+        {
+            "name": "razz",
+            "email": "elkady.r@hotmail.com"
+        }
+    ],
+    "require": {}
+}
+
