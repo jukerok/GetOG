@@ -1,6 +1,7 @@
 {
-    "name": "razz/get-og",
+    "name": "razz/getog",
     "description": "Retrieve meta tags and OpenGraph",
+    "homepage": "https://github.com/jukerok/GetOG.git",
     "type": "library",
     "authors": [
         {
