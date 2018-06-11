@@ -1,0 +1,24 @@
+[33mcommit 239e940d6be69a6e42dc84b74d3d284ccf3dec5f[m
+Author: Ramy Elkady <elkady.r@hotmail.com>
+Date:   Sun Jun 10 22:13:49 2018 +0200
+
+    a little bit of info for readme
+
+[33mcommit 721ff10008f56e72e5e85c9f0d3b8bcf56c86e5f[m
+Merge: 3dad2b7 e7dd116
+Author: Ramy Elkady <elkady.r@hotmail.com>
+Date:   Sun Jun 10 22:10:48 2018 +0200
+
+    Merge branch 'master' of github.com:jukerok/GetOG
+
+[33mcommit 3dad2b7b1179379ef88431b61f15117e55a3e00b[m
+Author: razz <elkady.r@hotmail.com>
+Date:   Sun Jun 10 21:58:23 2018 +0200
+
+    Pushed init files
+
+[33mcommit e7dd116d161eae9aca93953f9cf8e56d1373a5be[m
+Author: jukerok <elkady.r@hotmail.com>
+Date:   Sun Jun 10 21:51:12 2018 +0200
+
+    Initial commit

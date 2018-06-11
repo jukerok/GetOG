@@ -21,7 +21,7 @@ class GetOgController extends Controller
                          'site_name'    =>      $OG->image_src];
 
         return response()->json($OG_Result);                         
-    }
+}
 
     public function show() {
         return view('getog::form');
